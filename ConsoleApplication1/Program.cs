@@ -29,6 +29,7 @@ namespace ConsoleApplication1
         {
             Program obj = new Program();
             Console.WriteLine("Unit Testing");
+            Console.WriteLine("Unit Testing");
             obj.printMessage(5, 5);
             
         }
